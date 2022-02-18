@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Keybase PGP](https://img.shields.io/keybase/pgp/drpyser)
 ![Website](https://img.shields.io/website?down_message=Down%20and%20low%20%3A%28&up_message=Up%20and%20Running%21&url=https%3A%2F%2Fwww.charleslanglois.dev)
-https://img.shields.io/badge/WorkStatus-Employed-green
+![Work Status](https://img.shields.io/badge/WorkStatus-Employed-green)
 
 Hi! I'm Charles, a Montreal-native/Montreal-based developer and tech enthusiast.
 I'm currently most proficient coding in Python(~5 years of professional experience), but I also have some practical knowledge and coding experience in 
