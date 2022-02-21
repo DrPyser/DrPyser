@@ -12,8 +12,10 @@ I'm currently most proficient coding in Python(~5 years of professional experien
 * Lua.
 
 I also have read about many other programming ecosystems and languages(e.g. Erlang, Elixir, Go, Rust, Scala, Clojure, Ruby, SmallTalk).
+
 I'm also a fan of the functional programming paradigm and try to apply its principles as often as possible(to the extent that the language and context allows) to manage complexity and ensure reliability.
-I have a particular interest in the open web, open protocols and open standards, networking, language design and developer ergonomics and decentralized systems.
+
+I have a particular interest in the open web, open protocols and open standards, networking, language design and developer ergonomics, decentralized systems and the emerging "web3" movement.
 
 I'm also passionate about learning different paradigms of programming and approaches to problems and goals within the computer/information space.
 I hope to get opportunities to keep learning and integrating new practical and conceptual toolsets, as well as practicing and mastering those that I already know.
