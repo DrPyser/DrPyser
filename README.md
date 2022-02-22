@@ -1,6 +1,8 @@
 ### Hi there 👋
-![Keybase PGP](https://img.shields.io/keybase/pgp/drpyser?link=https%3A%2F%2Fkeybase.io%2Fdrpyser%23show-public)
-![Website](https://img.shields.io/website?down_message=Down%20and%20low%20%3A%28&up_message=Up%20and%20Running%21&url=https%3A%2F%2Fwww.charleslanglois.dev&link=https%3A%2F%2Fwww.charleslanglois.dev)
+<a href="https://keybase.io/drpyser#show-public"><img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/drpyser?link=https%3A%2F%2Fkeybase.io%2Fdrpyser%23show-public"></a>
+
+<object name="www.charleslanglois.dev" data="https://img.shields.io/website?down_message=Down%20and%20low%20%3A%28&up_message=Up%20and%20Running%21&url=https%3A%2F%2Fwww.charleslanglois.dev&link=https%3A%2F%2Fwww.charleslanglois.dev"></object>
+
 ![Work Status](https://img.shields.io/badge/WorkStatus-Employed-green)
 
 Hi! I'm Charles, a Montreal-native/Montreal-based developer and tech enthusiast.
