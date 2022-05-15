@@ -5,7 +5,7 @@
 
 ![Work Status](https://img.shields.io/badge/WorkStatus-Employed-green)
 
-Hi! I'm Charles, a Montreal-native/Montreal-based developer and tech enthusiast.
+I'm Charles, a Montreal-based software developer and tech enthusiast.
 I'm currently most proficient coding in Python(~5 years of professional experience), but I also have some practical knowledge and coding experience in 
 * Lisps(Scheme, Common Lisp, Racket)
 * Javascript/Typescript
@@ -13,23 +13,24 @@ I'm currently most proficient coding in Python(~5 years of professional experien
 * C
 * Lua.
 
-I also have read about many other programming ecosystems and languages(e.g. Erlang, Elixir, Go, Rust, Scala, Clojure, Ruby, SmallTalk).
+Though I love to read and learn about all kinds of programming languages(e.g. Erlang, Elixir, Go, Rust, Scala, Clojure, Ruby, SmallTalk).
 
-I'm also a fan of the functional programming paradigm and try to apply its principles as often as possible(to the extent that the language and context allows) to manage complexity and ensure reliability.
+I'm a big fan of the functional programming paradigm and try to apply its principles as often as possible(to the extent that the language and context allows) to manage complexity and ensure reliability, modulability and extensibility of software.
 
-I have a particular interest in the open web, open protocols and open standards, networking, language design and developer ergonomics, decentralized systems and the emerging "web3" movement.
+I have a particular interest in the open web, open protocols and open standards, networking, language design, developer ergonomics, decentralized systems and the emerging "web3" movement.
 
-I'm also passionate about learning different paradigms of programming and approaches to problems and goals within the computer/information space.
-I hope to get opportunities to keep learning and integrating new practical and conceptual toolsets, as well as practicing and mastering those that I already know.
+I believe in the value of open software and open collaboration in technology(as well as other domains), both for technology developers and owners as well as for technology users(which often is pretty much everyone, as technology shapes and interacts with so much aspects of the social realities).
 
-I believe in the value of open software and open collaboration in technology, both for the technology developers and owners as well as for the users(which often is pretty much everyone, as technology shapes and interacts with so much aspects of the social realities).
+- 🔭 I’m currently working on
+  - [Learning to use Nix and NixOS to declaratively specify all aspects of my computer systems](DrPyser/devos).
+  - [My web site](DrPyser/www.charleslanglois.dev)
+  - [A 9P protocol implementation in Rust](DrPyser/9p.rst)
 
 <!--
 **DrPyser/DrPyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
