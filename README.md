@@ -22,9 +22,9 @@ I have a particular interest in the open web, open protocols and open standards,
 I believe in the value of open software and open collaboration in technology(as well as other domains), both for technology developers and owners as well as for technology users(which often is pretty much everyone, as technology shapes and interacts with so much aspects of the social realities).
 
 - 🔭 I’m currently working on
-  - [Learning to use Nix and NixOS to declaratively specify all aspects of my computer systems](DrPyser/devos).
-  - [My web site](DrPyser/www.charleslanglois.dev)
-  - [A 9P protocol implementation in Rust](DrPyser/9p.rst)
+  - [Learning to use Nix and NixOS to declaratively specify all aspects of my computer systems](https://github.com/DrPyser/devos).
+  - [My web site](https://github.com/DrPyser/www.charleslanglois.dev)
+  - [A 9P protocol implementation in Rust](https://github.com/DrPyser/9p.rst)
 
 <!--
 **DrPyser/DrPyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
