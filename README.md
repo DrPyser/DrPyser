@@ -6,14 +6,14 @@
 ![Work Status](https://img.shields.io/badge/WorkStatus-Employed-green)
 
 I'm Charles, a Montreal-based software developer and tech enthusiast.
-I'm currently most proficient coding in Python(~5 years of professional experience), but I also have some practical knowledge and coding experience in 
+I'm currently most proficient coding in Python(~5 years of professional experience), but I also have some practical knowledge and coding experience in various other languages.
 * Lisps(Scheme, Common Lisp, Racket)
 * Javascript/Typescript
 * Haskell
 * C
 * Lua.
 
-Though I love to read and learn about all kinds of programming languages(e.g. Erlang, Elixir, Go, Rust, Scala, Clojure, Ruby, SmallTalk).
+And I love to read and learn on all kinds of programming languages(e.g. Erlang, Elixir, Go, Rust, Scala, Clojure, Ruby, SmallTalk).
 
 I'm a big fan of the functional programming paradigm and try to apply its principles as often as possible(to the extent that the language and context allows) to manage complexity and ensure reliability, modulability and extensibility of software.
 
