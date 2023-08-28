@@ -17,7 +17,7 @@ And I love to read and learn on all kinds of programming languages(e.g. Erlang, 
 
 I'm a big fan of the functional programming paradigm and try to apply its principles as often as possible(to the extent that the language and context allows) to manage complexity and ensure reliability, modulability and extensibility of software.
 
-I have a particular interest in the open web, open protocols and open standards, networking, language design, developer ergonomics, decentralized systems and the emerging "web3" movement.
+I have a particular interest in the open web, open protocols and open standards, networking, language design, developer ergonomics, decentralized and distributed systems and related movements.
 
 I believe in the value of open software and open collaboration in technology(as well as other domains), both for technology developers and owners as well as for technology users(which often is pretty much everyone, as technology shapes and interacts with so much aspects of the social realities).
 
