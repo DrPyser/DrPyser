@@ -6,12 +6,15 @@
 ![Work Status](https://img.shields.io/badge/WorkStatus-Employed-green)
 
 I'm Charles, a Quebec-based software developer and tech enthusiast.
-I'm currently most proficient coding in Python(~5 years of professional experience), but I also have some practical knowledge and coding experience in various other languages.
+I'm currently most proficient coding in Python(~8 years of professional experience), but I also have some practical knowledge and coding experience in various other languages:
+
 * Lisps(Scheme, Common Lisp, Racket)
 * Javascript/Typescript
 * Haskell
 * C
-* Lua.
+* Lua
+* bash/Shell
+* SQL
 
 And I love to read and learn on all kinds of programming languages(e.g. Erlang, Elixir, Go, Rust, Scala, Clojure, Ruby, SmallTalk).
 
